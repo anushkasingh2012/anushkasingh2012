@@ -1,5 +1,7 @@
-# 💫 About Me:
-<br>                                   👋 Hi, I'm Anushka Singh<br><br>I'm a passionate student pursuing BCA-MCA in Data Science from the University of Allahabad. I have a strong interest in data analysis, machine learning, and coding. My goal is to explore the vast field of data science and apply my knowledge to solve real-world problems.<br>  Skills & Interests:<br>-Programming Languages:Python, R, SQL ,java HTML ,CSS,nodejs <br>- Data Science Tools: NumPy, Pandas, Matplotlib, Scikit-learn  <br>- Areas of Interest: Data Analysis, Machine Learning, Data Visualization,AI,  <br><br> 🌱 Currently Learning:<br>- Advanced machine learning algorithms  <br>- Data visualization techniques  <br>- Real-world data projects  <br><br>
+![212750147-854a394f-fee9-4080-9770-78a4b7ece53f](https://github.com/user-attachments/assets/38a43451-f7dc-4213-bf96-ac269f291cb2)
+
+# 💫 Hi, I'm Anushka Singh 💫
+<br><br>I'm a passionate student pursuing BCA-MCA in Data Science from the University of Allahabad. I have a strong interest in data analysis, machine learning, and coding. My goal is to explore the vast field of data science and apply my knowledge to solve real-world problems.<br>  Skills & Interests:<br>-Programming Languages:Python, R, SQL ,java HTML ,CSS,nodejs <br>- Data Science Tools: NumPy, Pandas, Matplotlib, Scikit-learn  <br>- Areas of Interest: Data Analysis, Machine Learning, Data Visualization,AI,  <br><br> 🌱 Currently Learning:<br>- Advanced machine learning algorithms  <br>- Data visualization techniques  <br>- Real-world data projects  <br><br>
 
 
 ## 🌐 Socials:
